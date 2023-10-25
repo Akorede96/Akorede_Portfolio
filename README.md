@@ -15,10 +15,10 @@ B.sc, Public Health Science | Kwara state University at Malete, Kwara state (_Ju
 ## Data-Driven Bike sales with Decisions
 Developed objective strategies for the sales made from each product purchased and Reviews given to each items be documeted to get a better insight of what should be done, This data- driven lead to a better characteristics of using Cell Functions which make it easy to query, access and Make to use as information.
 
-[Bike sales Discovery](/assests/img/Bike_sales_discovery.jpeg)
+[Bike sales Discovery](/assets/img/Bike_sales_discovery.jpeg)
 
 ### Decoding the impacts of the analysis for the Bike Sales
 
 Analysising the all the unit cost, Unit quantity of product with unique identifying character to getting the company there Revenue made in that particular Month of sales.
 
-![Bike study](assests/img/bike_study.jpeg)
+![Bike study](assets/img/bike_study.jpeg)
