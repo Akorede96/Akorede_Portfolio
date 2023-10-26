@@ -21,4 +21,6 @@ Developed objective strategies for the sales made from each product purchased an
 
 Analysising the all the unit cost, Unit quantity of product with unique identifying character to getting the company there Revenue made in that particular Month of sales.
 
+[Portfolio](https://1drv.ms/x/s!Aj7H_ciciO-dhV9AEWQlwbjEdyao?e=XZSyTP)
+
 ![Bike study](assets/img/Bike_Study.jpg)
