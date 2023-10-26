@@ -1,4 +1,4 @@
-# Data analysis $ Strategy | Data Insight
+# Data Analysis $ Strategy | Data Insight
 
 #### Technical skills: Microsoft Excel, SQL, Tableau.
 
